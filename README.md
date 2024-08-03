@@ -35,3 +35,7 @@ To view the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/er-piyush-kumar/Product-page-coffee-mug
+
+## Contribution
+
+Feel free to fork the repository and submit pull requests with improvements or fixes.
